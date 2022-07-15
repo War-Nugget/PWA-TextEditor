@@ -1,5 +1,4 @@
-# PWA-TextEditor
-### by Sahil Patel
+# PWA-TextEditor by Sahil Patel
 
 
   
